@@ -4,8 +4,8 @@
 </p>
     
 ```sh-session
-$pip uninstall mylife
-$pip install overthink
+$npm uninstall mylife
+$npm install overthink
 ```
 <div align="center">
   
